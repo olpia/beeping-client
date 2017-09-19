@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import time,requests,socket,json,argparse,sys
 import graphitesend
 from datetime import datetime
